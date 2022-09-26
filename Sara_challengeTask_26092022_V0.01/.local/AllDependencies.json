@@ -8416,11 +8416,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Artikeys_challengeTask_26092022_V0.01",
-      "projectName": "Artikeys_challengeTask_26092022_V0.01",
-      "projectPath": "C:\\Users\\Artikeys_TR003\\Desktop\\RPA_Challenge\\Artikeys_challengeTask_26092022_V0.01\\.local",
+      "projectUniqueName": "Sara_challengeTask_26092022_V0.01",
+      "projectName": "Sara_challengeTask_26092022_V0.01",
+      "projectPath": "C:\\Users\\Artikeys_TR003\\Documents\\UiPath\\Sara_challengeTask_26092022_V0.01\\.local",
       "packagesPath": "C:\\Users\\Artikeys_TR003\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artikeys_TR003\\Desktop\\RPA_Challenge\\Artikeys_challengeTask_26092022_V0.01\\.local",
+      "outputPath": "C:\\Users\\Artikeys_TR003\\Documents\\UiPath\\Sara_challengeTask_26092022_V0.01\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]
